@@ -1,0 +1,7 @@
+/target/
+/test-output/
+# Compiled Java class files
+*.class
+
+#
+.settings
